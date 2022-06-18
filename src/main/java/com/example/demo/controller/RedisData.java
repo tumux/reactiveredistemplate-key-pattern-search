@@ -11,7 +11,7 @@ import reactor.core.publisher.Flux;
 
 @RestController
 @Slf4j
-public class RedisData {
+public class    RedisData {
 
     private final RedisService redisService;
 
